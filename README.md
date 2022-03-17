@@ -5,10 +5,10 @@
 - favorite stuff is Drawing things yknow 
 
 ## My webpage
-- [Github Website](TheEpicDragons.github.io)
+- [Github Website](https://TheEpicDragons.github.io/)
 ### tryna make good ricing for i3wm 
 - failing miserably atm
 ### More cool links
-- [Discord](https://discord.gg/Uy6KrV9zRd)
+- [Discord](https://discord.gg/Uy6KrV9zRd/)
 - [ArtStreet](https://medibang.com/u/ActuallyMuffins/)
-- [Twitter](https://mobile.twitter.com/DatEpicMuffin)
+- [Twitter](https://mobile.twitter.com/DatEpicMuffin/)
