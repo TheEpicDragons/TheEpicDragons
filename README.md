@@ -3,6 +3,7 @@
 - **Bad at Programming** ~~shell language and html I guess~~ 
 - ~~linux addict~~ Arch user (btw)
 - favorite stuff is Drawing things yknow 
+
 ## Stats
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
