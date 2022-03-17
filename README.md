@@ -9,6 +9,6 @@
 ### tryna make good ricing for i3wm 
 - failing miserably atm
 ### More cool links
-[Discord](https://discord.gg/Uy6KrV9zRd)
-[ArtStreet](https://medibang.com/u/ActuallyMuffins/)
-[Twitter](https://mobile.twitter.com/DatEpicMuffin)
+- [Discord](https://discord.gg/Uy6KrV9zRd)
+- [ArtStreet](https://medibang.com/u/ActuallyMuffins/)
+- [Twitter](https://mobile.twitter.com/DatEpicMuffin)
