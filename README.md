@@ -13,4 +13,4 @@
 - [ArtStreet](https://medibang.com/u/ActuallyMuffins/)
 - [Twitter](https://mobile.twitter.com/DatEpicMuffin/)
 
-src="https://github-readme-stats.vercel.app/api?username=TheEpicDragons&show_icons=true&theme=dracula" />
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=TheEpicDragons&show_icons=true&theme=dracula" />
