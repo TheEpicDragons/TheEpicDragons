@@ -12,3 +12,5 @@
 - [Discord](https://discord.gg/Uy6KrV9zRd/)
 - [ArtStreet](https://medibang.com/u/ActuallyMuffins/)
 - [Twitter](https://mobile.twitter.com/DatEpicMuffin/)
+
+src="https://github-readme-stats.vercel.app/api?username=TheEpicDragons&show_icons=true&theme=dracula" />
