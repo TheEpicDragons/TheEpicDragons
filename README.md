@@ -5,7 +5,7 @@
 - favorite stuff is Drawing things yknow 
 
 ## My webpage
-- TheEpicDragons.github.io
+- [Github Website](TheEpicDragons.github.io)
 ### tryna make good ricing for i3wm 
 - failing miserably atm
 ### More cool links
