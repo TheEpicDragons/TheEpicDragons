@@ -1,7 +1,8 @@
 ![alt text](https://media.discordapp.net/attachments/904400521853534208/953913827160899584/A8GdkBH.jpg)
 # Hi I am TheEpicDragon
 - **Bad at Programming** ~~shell language and html I guess~~ 
-- ~~linux addict~~ Arch user (btw) 
+- ~~linux addict~~ Arch user (btw)
+![alt text](https://cdn.discordapp.com/attachments/776063474857934861/960094542818852944/0v4s6zvsexp81.jpg) 
 - favorite stuff is Drawing things yknow 
 
 
