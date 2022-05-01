@@ -30,4 +30,4 @@
     <img align="center"src="https://github-readme-stats.vercel.app/api?username=TheEpicDragons&show_icons=true&theme=dark" />
   </td>
 ## My trophies 
-[[![trophy](https://github-profile-trophy.vercel.app/?TheEpicDragons=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?TheEpicDragons=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
