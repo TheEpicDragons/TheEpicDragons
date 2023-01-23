@@ -1,5 +1,5 @@
 ![alt text](images/Dragons.jpeg)
-# Hi I am TheEpicDragon
+# Hi I am Blitzdrachen
 - **Bad at Programming** ~~shell language and html I guess~~ 
 - ~~linux addict~~ Arch user (btw)
 ![alt text](https://cdn.discordapp.com/attachments/776063474857934861/960094542818852944/0v4s6zvsexp81.jpg) 
