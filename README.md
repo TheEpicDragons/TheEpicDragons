@@ -1,7 +1,7 @@
 ![alt text](images/Dragons.jpeg)
 # Hi I am Blitzdrachen
-- **Bad at Programming** ~~shell language and html I guess~~ 
-- ~~linux addict~~ Arch user (btw)
+- Python and bash programming is smth i do
+- I use arch (btw)
 ![alt text](https://cdn.discordapp.com/attachments/776063474857934861/960094542818852944/0v4s6zvsexp81.jpg) 
 - favorite stuff is Drawing things yknow 
 
@@ -13,8 +13,8 @@
 
 ### More cool links
 - [Discord](https://discord.gg/Uy6KrV9zRd/)
-- [ArtStreet](https://medibang.com/u/ActuallyMuffins/)
-- [Twitter](https://mobile.twitter.com/DatEpicMuffin/)
+- [ArtStreet](https://medibang.com/u/Blitzdrachen/)
+- [Twitter](https://mobile.twitter.com/Blitzdrachen/)
 
 
 
