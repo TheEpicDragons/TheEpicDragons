@@ -2,7 +2,6 @@
 # Hi I am Blitzdrachen
 - Python and bash programming is smth i do
 - I use arch (btw)
-![alt text](https://cdn.discordapp.com/attachments/776063474857934861/960094542818852944/0v4s6zvsexp81.jpg) 
 - favorite stuff is Drawing things yknow 
 
 
@@ -14,7 +13,7 @@
 ### More cool links
 - [Discord](https://discord.gg/Uy6KrV9zRd/)
 - [ArtStreet](https://medibang.com/u/Blitzdrachen/)
-- [Twitter](https://mobile.twitter.com/Blitzdrachen/)
+- [Twitter](https://mobile.twitter.com/Blitzdrachen_/)
 
 
 
