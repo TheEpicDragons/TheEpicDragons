@@ -1,12 +1,12 @@
 ![alt text](images/Dragons.jpeg)
-# Hi I am Blitzdrachen
-- Python and bash programming is smth i do
-- I use arch (btw)
-- favorite stuff is Drawing things yknow 
-
-
-
-
+# Hey I am Sorine
+### I am a beginner developer thats currently learning Python and C#. 
+### I also am an Digital "Raster" image artist and a traditional Acrylic painter, I also ocasionally do sculpting!
+##Tool(s):
+IDE: Zed
+OS: Arch (btw)
+Version Control Software: git (obviously lol)
+Art/Imagery: Krita 
 ## My webpage
 - [Github Website](https://TheEpicDragons.github.io/)
 
