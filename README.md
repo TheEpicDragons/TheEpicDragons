@@ -11,7 +11,6 @@
 - [Github Website](https://TheEpicDragons.github.io/)
 
 ### More cool links
-- [Discord](https://discord.gg/Uy6KrV9zRd/)
 - [ArtStreet](https://medibang.com/u/Blitzdrachen/)
 - [Twitter](https://mobile.twitter.com/Blitzdrachen_/)
 
