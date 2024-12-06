@@ -1,4 +1,4 @@
-![alt text](images/Dragons.jpeg)
+![alt text](images/Screenshot_2024_1201_231802.jpg)
 # Hey I am Sorine
 ### I am a beginner developer thats currently learning Python and C#. 
 ### I also am an Digital "Raster" image artist and a traditional Acrylic painter, I also ocasionally do sculpting!
