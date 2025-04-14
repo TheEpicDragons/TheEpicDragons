@@ -1,18 +1,17 @@
-![alt text](images/Screenshot_2024_1201_231802.jpg)
 # Hey I am Sorine
 ### I am a beginner developer thats currently learning Python and C#. 
-### I also am an Digital "Raster" image artist and a traditional Acrylic painter, I also ocasionally do sculpting!
+### I also am an Digital artist and a traditional Acrylic painter, I also ocasionally do sculpting!
 ## Tool(s):
 - IDE: Zed
 - OS: Arch (btw)
-- Version Control Software: git (obviously lol)
+- Version Control Software:SVN- just kidding. its git 
 - Art/Imagery: Krita 
 ## My webpage
 - [Github Website](https://TheEpicDragons.github.io/)
 
-### More cool links
+### Cool links
 - [ArtStreet](https://medibang.com/u/Blitzdrachen/)
-- [Twitter](https://mobile.twitter.com/Blitzdrachen_/)
+- [Bluesky](https://bsky.app/profile/blitzdrachen.bsky.social)
 
 
 
